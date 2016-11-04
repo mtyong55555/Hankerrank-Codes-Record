@@ -7,3 +7,5 @@ Links for Questions:
 
 3.Queries with Fixed Length : https://www.hackerrank.com/challenges/queries-with-fixed-length
 
+4.Fraudulent Activity Notifications : https://www.hackerrank.com/challenges/fraudulent-activity-notifications
+
