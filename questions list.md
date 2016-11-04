@@ -5,4 +5,5 @@ Links for Questions:
 
 2.Quicksort 2 - Sorting : https://www.hackerrank.com/challenges/quicksort2
 
+3.Queries with Fixed Length : https://www.hackerrank.com/challenges/queries-with-fixed-length
 
