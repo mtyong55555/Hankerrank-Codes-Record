@@ -9,3 +9,5 @@ Links for Questions:
 
 4.Fraudulent Activity Notifications : https://www.hackerrank.com/challenges/fraudulent-activity-notifications
 
+5.Count Luck : https://www.hackerrank.com/challenges/count-luck
+
