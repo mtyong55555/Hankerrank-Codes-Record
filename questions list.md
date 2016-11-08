@@ -11,3 +11,6 @@ Links for Questions:
 
 5.Count Luck : https://www.hackerrank.com/challenges/count-luck
 
+6.Gridland Metro : https://www.hackerrank.com/contests/world-codesprint-7/challenges/gridland-metro
+
+
