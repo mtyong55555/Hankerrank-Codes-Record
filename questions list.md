@@ -13,4 +13,6 @@ Links for Questions:
 
 6.Gridland Metro : https://www.hackerrank.com/contests/world-codesprint-7/challenges/gridland-metro
 
+7.Jim and the Skyscrapers : https://www.hackerrank.com/challenges/jim-and-the-skyscrapers
+
 
