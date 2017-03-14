@@ -20,3 +20,5 @@ Links for Questions:
 9.Running Time of Quicksort : https://www.hackerrank.com/challenges/quicksort4
 
 10.The Great XOR : https://www.hackerrank.com/contests/w28/challenges/the-great-xor
+
+11.The Power Sum : https://www.hackerrank.com/challenges/the-power-sum
